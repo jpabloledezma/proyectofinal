@@ -1,0 +1,2 @@
+2020-04-07T16:38:01+00:00 CRITICAL Out of memory (allocated 8388608) (tried to allocate 135168 bytes) in /var/www/html/wp-includes/pomo/streams.php on line 113
+
